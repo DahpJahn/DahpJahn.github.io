@@ -19,11 +19,10 @@
 
 .game-hand-buttons {
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
   justify-content: center;
   gap: 6px;
   max-width: 96vw;
-  overflow-x: auto;
 }
 
 .game-hand-buttons .game-button {
